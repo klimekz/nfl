@@ -10,13 +10,22 @@ This project parses NFL schedule PDFs to extract game data into structured DataF
 - ✅ Clean team name extraction
 - ✅ Date calculation from first Sunday + week estimation
 - ✅ Rich metadata extraction: times, networks, special info
+- ✅ Comprehensive player stats scraping (>90% success rate, ~5,200+ records)
+- ✅ Player aggregation functions for season statistics
+- ✅ Player profile interface with game logs and context
+- ✅ Game analysis interface to view all players in specific games
 
 ## File Structure
 ```
 /Users/zack/CS/Python/
-├── schedule.ipynb          # Main parsing notebook
-├── NFL-Regular-season-2023.pdf
-├── NFL-Regular-season-2024.pdf
+├── schedule.ipynb          # Main notebook with full pipeline
+├── nfl_2024_schedule.csv   # Parsed schedule with PFR URLs
+├── nfl_2024_data/          # Player stats (4 tables, ~5,200 records)
+├── teams.json              # Team name to PFR code mapping
+├── facts.txt               # NFL facts for scraper entertainment
+├── archive/                # Completed intermediate files
+├── project_history/        # Completed documentation
+├── NFL-Regular-season-*.pdf # Source PDFs
 ├── pyproject.toml         # uv project config
 └── CLAUDE.md             # This file
 ```
@@ -47,16 +56,33 @@ Main parser that extracts games from PDF and returns DataFrame with columns:
 - Total: 544 games across both seasons
 - All 32 NFL teams represented with 17 games each
 
+## Available Interfaces
+```python
+# Load data
+tables = load_all_game_data()
+schedule_df = pd.read_csv('nfl_2024_schedule.csv')
+
+# Get season leaders
+top_rushers = get_top_players_by_stat('Rush_Yds', 'basic_offense', tables)
+
+# Create player profile with game context
+player_profile = create_player_profile("Lamar Jackson", tables, schedule_df)
+
+# Analyze specific game
+game_analysis = analyze_game_performance('2024_001', tables, schedule_df)
+```
+
 ## Next Steps
-- Join this game data with player performance stats using `game_id`
+- Add player metadata scraper (height, weight, position, etc.)
 - Build predictive models using the rich temporal and contextual features
 - Add more seasons as needed by providing their first Sunday dates
 
 ## Technical Notes
 - Uses uv for package management
-- Requires: pandas, PyPDF2, datetime
+- Requires: pandas, pdfplumber, requests, beautifulsoup4
 - VSCode kernel: `.venv/bin/python`
-- Games calculated at ~16 per week for date estimation
+- Respectful scraping with 15-45 second delays
+- Comprehensive error handling and retry logic
 
 ## Usage
 ```python

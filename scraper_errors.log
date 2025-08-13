@@ -1,2 +1,0 @@
-[2025-08-11 23:47:27] === BATCH SCRAPING SESSION STARTED ===
-[2025-08-11 23:48:22] EXCEPTION - 2024_248 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?

@@ -1,0 +1,25 @@
+[2025-08-12 00:04:48] === BATCH SCRAPING SESSION STARTED ===
+[2025-08-12 00:05:29] NO DATA FOUND - 2024_225 | https://www.pro-football-reference.com/boxscores/202412190cin.htm | Teams: Cleveland Browns @ Cincinnati Bengals | Date: 2024-12-19
+[2025-08-12 00:13:53] EXCEPTION - 2024_257 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 00:22:01] EXCEPTION - 2024_262 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 00:31:32] EXCEPTION - 2024_271 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 00:35:55] EXCEPTION - 2024_266 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 00:36:38] EXCEPTION - 2024_259 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 00:48:24] EXCEPTION - 2024_267 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 00:51:41] NO DATA FOUND - 2024_235 | https://www.pro-football-reference.com/boxscores/202412220sdg.htm | Teams: Denver Broncos @ Los Angeles Chargers | Date: 2024-12-22
+[2025-08-12 00:53:33] EXCEPTION - 2024_260 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 00:55:37] EXCEPTION - 2024_246 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:13:53] EXCEPTION - 2024_245 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:16:05] EXCEPTION - 2024_264 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:16:44] EXCEPTION - 2024_263 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:21:35] EXCEPTION - 2024_261 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:22:31] EXCEPTION - 2024_265 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:24:14] EXCEPTION - 2024_258 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:36:30] EXCEPTION - 2024_268 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:36:48] EXCEPTION - 2024_247 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:44:04] EXCEPTION - 2024_272 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:48:51] EXCEPTION - 2024_244 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:51:14] EXCEPTION - 2024_270 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 01:57:26] EXCEPTION - 2024_269 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 02:16:06] EXCEPTION - 2024_248 | nan | Error: Invalid URL 'nan': No scheme supplied. Perhaps you meant https://nan?
+[2025-08-12 02:25:01] SCRAPING COMPLETE - Success: 251 | Failed: 21 | Total time: 2:20:12

@@ -242,11 +242,11 @@ game_id,season,week,game_date,day_of_week,away_team,home_team,local_time,et_time
 2024_241,2024,17,2024-12-25,Wed,Kansas City Chiefs,Pittsburgh Steelers,1:00p,1:00p,,https://www.pro-football-reference.com/boxscores/202412250pit.htm,pit,kan,False
 2024_242,2024,17,2024-12-25,Wed,Baltimore Ravens,Houston Texans,3:30p,4:30p,,https://www.pro-football-reference.com/boxscores/202412250htx.htm,htx,rav,False
 2024_243,2024,17,2024-12-26,Thu,Seattle Seahawks,Chicago Bears,7:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202412260chi.htm,chi,sea,False
-2024_244,2024,17,2024-12-28,,Denver Broncos,Cincinnati Bengals TBD TBD,,,,,,den,False
-2024_245,2024,17,2024-12-28,,Arizona Cardinals,Los Angeles Rams TBD TBD,,,,,,crd,False
-2024_246,2024,17,2024-12-28,,Los Angeles Chargers,New England Patriots TBD TBD,,,,,,sdg,False
-2024_247,2024,17,2024-12-28,,Indianapolis Colts,New York Giants TBD TBD,,,,,,clt,False
-2024_248,2024,17,2024-12-28,,Atlanta Falcons,Washington Commanders TBD TBD,,,,,,atl,False
+2024_244,2024,17,2024-12-28,,Denver Broncos,Cincinnati Bengals,,,,https://www.pro-football-reference.com/boxscores/202412280cin.htm,cin,den,False
+2024_245,2024,17,2024-12-28,,Arizona Cardinals,Los Angeles Rams,,,,https://www.pro-football-reference.com/boxscores/202412280ram.htm,ram,crd,False
+2024_246,2024,17,2024-12-28,,Los Angeles Chargers,New England Patriots,,,,https://www.pro-football-reference.com/boxscores/202412280nwe.htm,nwe,sdg,False
+2024_247,2024,17,2024-12-28,,Indianapolis Colts,New York Giants,,,,https://www.pro-football-reference.com/boxscores/202412280nyg.htm,nyg,clt,False
+2024_248,2024,17,2024-12-28,,Atlanta Falcons,Washington Commanders,,,,https://www.pro-football-reference.com/boxscores/202412280was.htm,was,atl,False
 2024_249,2024,17,2024-12-29,,New York Jets,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412290buf.htm,buf,nyj,False
 2024_250,2024,17,2024-12-29,,Tennessee Titans,Jacksonville Jaguars,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412290jax.htm,jax,oti,False
 2024_251,2024,17,2024-12-29,,Green Bay Packers,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412290min.htm,min,gnb,False
@@ -255,19 +255,19 @@ game_id,season,week,game_date,day_of_week,away_team,home_team,local_time,et_time
 2024_254,2024,17,2024-12-29,,Dallas Cowboys,Philadelphia Eagles,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412290phi.htm,phi,dal,False
 2024_255,2024,17,2024-12-29,,Miami Dolphins,Cleveland Browns,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412290cle.htm,cle,mia,False
 2024_256,2024,17,2024-12-30,Mon,Detroit Lions,San Francisco 49ers,5:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202412300sfo.htm,sfo,det,False
-2024_257,2024,18,2025-01-05,,San Francisco 49ers,Arizona Cardinals TBD TBD,,,,,,sfo,False
-2024_258,2024,18,2025-01-05,,Carolina Panthers,Atlanta Falcons TBD TBD,,,,,,car,False
-2024_259,2024,18,2025-01-05,,Cleveland Browns,Baltimore Ravens TBD TBD,,,,,,cle,False
-2024_260,2024,18,2025-01-05,,Washington Commanders,Dallas Cowboys TBD TBD,,,,,,was,False
-2024_261,2024,18,2025-01-05,,Kansas City Chiefs,Denver Broncos TBD TBD,,,,,,kan,False
-2024_262,2024,18,2025-01-05,,Minnesota Vikings,Detroit Lions TBD TBD,,,,,,min,False
-2024_263,2024,18,2025-01-05,,Chicago Bears,Green Bay Packers TBD TBD,,,,,,chi,False
-2024_264,2024,18,2025-01-05,,Jacksonville Jaguars,Indianapolis Colts TBD TBD,,,,,,jax,False
-2024_265,2024,18,2025-01-05,,Seattle Seahawks,Los Angeles Rams TBD TBD,,,,,,sea,False
-2024_266,2024,18,2025-01-05,,Los Angeles Chargers,Las Vegas Raiders TBD TBD,,,,,,sdg,False
-2024_267,2024,18,2025-01-05,,Buffalo Bills,New England Patriots TBD TBD,,,,,,buf,False
-2024_268,2024,18,2025-01-05,,Miami Dolphins,New York Jets TBD TBD,,,,,,mia,False
-2024_269,2024,18,2025-01-05,,New York Giants,Philadelphia Eagles TBD TBD,,,,,,nyg,False
-2024_270,2024,18,2025-01-05,,Cincinnati Bengals,Pittsburgh Steelers TBD TBD,,,,,,cin,False
-2024_271,2024,18,2025-01-05,,New Orleans Saints,Tampa Bay Buccaneers TBD TBD,,,,,,nor,False
-2024_272,2024,18,2025-01-05,,Houston Texans,Tennessee Titans TBD TBD,,,,,,htx,False
+2024_257,2024,18,2025-01-05,,San Francisco 49ers,Arizona Cardinals,,,,https://www.pro-football-reference.com/boxscores/202501050crd.htm,crd,sfo,False
+2024_258,2024,18,2025-01-05,,Carolina Panthers,Atlanta Falcons,,,,https://www.pro-football-reference.com/boxscores/202501050atl.htm,atl,car,False
+2024_259,2024,18,2025-01-05,,Cleveland Browns,Baltimore Ravens,,,,https://www.pro-football-reference.com/boxscores/202501050rav.htm,rav,cle,False
+2024_260,2024,18,2025-01-05,,Washington Commanders,Dallas Cowboys,,,,https://www.pro-football-reference.com/boxscores/202501050dal.htm,dal,was,False
+2024_261,2024,18,2025-01-05,,Kansas City Chiefs,Denver Broncos,,,,https://www.pro-football-reference.com/boxscores/202501050den.htm,den,kan,False
+2024_262,2024,18,2025-01-05,,Minnesota Vikings,Detroit Lions,,,,https://www.pro-football-reference.com/boxscores/202501050det.htm,det,min,False
+2024_263,2024,18,2025-01-05,,Chicago Bears,Green Bay Packers,,,,https://www.pro-football-reference.com/boxscores/202501050gnb.htm,gnb,chi,False
+2024_264,2024,18,2025-01-05,,Jacksonville Jaguars,Indianapolis Colts,,,,https://www.pro-football-reference.com/boxscores/202501050clt.htm,clt,jax,False
+2024_265,2024,18,2025-01-05,,Seattle Seahawks,Los Angeles Rams,,,,https://www.pro-football-reference.com/boxscores/202501050ram.htm,ram,sea,False
+2024_266,2024,18,2025-01-05,,Los Angeles Chargers,Las Vegas Raiders,,,,https://www.pro-football-reference.com/boxscores/202501050rai.htm,rai,sdg,False
+2024_267,2024,18,2025-01-05,,Buffalo Bills,New England Patriots,,,,https://www.pro-football-reference.com/boxscores/202501050nwe.htm,nwe,buf,False
+2024_268,2024,18,2025-01-05,,Miami Dolphins,New York Jets,,,,https://www.pro-football-reference.com/boxscores/202501050nyj.htm,nyj,mia,False
+2024_269,2024,18,2025-01-05,,New York Giants,Philadelphia Eagles,,,,https://www.pro-football-reference.com/boxscores/202501050phi.htm,phi,nyg,False
+2024_270,2024,18,2025-01-05,,Cincinnati Bengals,Pittsburgh Steelers,,,,https://www.pro-football-reference.com/boxscores/202501050pit.htm,pit,cin,False
+2024_271,2024,18,2025-01-05,,New Orleans Saints,Tampa Bay Buccaneers,,,,https://www.pro-football-reference.com/boxscores/202501050tam.htm,tam,nor,False
+2024_272,2024,18,2025-01-05,,Houston Texans,Tennessee Titans,,,,https://www.pro-football-reference.com/boxscores/202501050oti.htm,oti,htx,False
