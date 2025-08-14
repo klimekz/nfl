@@ -1,273 +1,273 @@
 game_id,season,week,game_date,day_of_week,away_team,home_team,local_time,et_time,tv_network,pfr_url,pfr_home_code,pfr_away_code,is_international
 2024_001,2024,1,2024-09-05,Thu,Baltimore Ravens,Kansas City Chiefs,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409050kan.htm,kan,rav,False
-2024_002,2024,1,2024-09-06,,Green Bay Packers,Philadelphia Eagles,9:15p,8:15p,Peacock,https://www.pro-football-reference.com/boxscores/202409060phi.htm,phi,gnb,False
-2024_003,2024,1,2024-09-08,,Pittsburgh Steelers,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409080atl.htm,atl,pit,False
-2024_004,2024,1,2024-09-08,,Arizona Cardinals,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409080buf.htm,buf,crd,False
-2024_005,2024,1,2024-09-08,,Tennessee Titans,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409080chi.htm,chi,oti,False
-2024_006,2024,1,2024-09-08,,New England Patriots,Cincinnati Bengals,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409080cin.htm,cin,nwe,False
-2024_007,2024,1,2024-09-08,,Houston Texans,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409080clt.htm,clt,htx,False
-2024_008,2024,1,2024-09-08,,Jacksonville Jaguars,Miami Dolphins,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409080mia.htm,mia,jax,False
-2024_009,2024,1,2024-09-08,,Carolina Panthers,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409080nor.htm,nor,car,False
-2024_010,2024,1,2024-09-08,,Minnesota Vikings,New York Giants,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409080nyg.htm,nyg,min,False
-2024_011,2024,1,2024-09-08,,Las Vegas Raiders,Los Angeles Chargers,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202409080sdg.htm,sdg,rai,False
-2024_012,2024,1,2024-09-08,,Denver Broncos,Seattle Seahawks,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202409080sea.htm,sea,den,False
-2024_013,2024,1,2024-09-08,,Dallas Cowboys,Cleveland Browns,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409080cle.htm,cle,dal,False
-2024_014,2024,1,2024-09-08,,Washington Commanders,Tampa Bay Buccaneers,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409080tam.htm,tam,was,False
-2024_015,2024,1,2024-09-08,,Los Angeles Rams,Detroit Lions,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409080det.htm,det,ram,False
+2024_002,2024,1,2024-09-06,Fri,Green Bay Packers,Philadelphia Eagles,9:15p,8:15p,Peacock,https://www.pro-football-reference.com/boxscores/202409060phi.htm,phi,gnb,False
+2024_003,2024,1,2024-09-08,Sun,Pittsburgh Steelers,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409080atl.htm,atl,pit,False
+2024_004,2024,1,2024-09-08,Sun,Arizona Cardinals,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409080buf.htm,buf,crd,False
+2024_005,2024,1,2024-09-08,Sun,Tennessee Titans,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409080chi.htm,chi,oti,False
+2024_006,2024,1,2024-09-08,Sun,New England Patriots,Cincinnati Bengals,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409080cin.htm,cin,nwe,False
+2024_007,2024,1,2024-09-08,Sun,Houston Texans,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409080clt.htm,clt,htx,False
+2024_008,2024,1,2024-09-08,Sun,Jacksonville Jaguars,Miami Dolphins,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409080mia.htm,mia,jax,False
+2024_009,2024,1,2024-09-08,Sun,Carolina Panthers,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409080nor.htm,nor,car,False
+2024_010,2024,1,2024-09-08,Sun,Minnesota Vikings,New York Giants,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409080nyg.htm,nyg,min,False
+2024_011,2024,1,2024-09-08,Sun,Las Vegas Raiders,Los Angeles Chargers,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202409080sdg.htm,sdg,rai,False
+2024_012,2024,1,2024-09-08,Sun,Denver Broncos,Seattle Seahawks,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202409080sea.htm,sea,den,False
+2024_013,2024,1,2024-09-08,Sun,Dallas Cowboys,Cleveland Browns,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409080cle.htm,cle,dal,False
+2024_014,2024,1,2024-09-08,Sun,Washington Commanders,Tampa Bay Buccaneers,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409080tam.htm,tam,was,False
+2024_015,2024,1,2024-09-08,Sun,Los Angeles Rams,Detroit Lions,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409080det.htm,det,ram,False
 2024_016,2024,1,2024-09-09,Mon,New York Jets,San Francisco 49ers,5:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202409090sfo.htm,sfo,nyj,False
 2024_017,2024,2,2024-09-12,Thu,Buffalo Bills,Miami Dolphins,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202409120mia.htm,mia,buf,False
-2024_018,2024,2,2024-09-15,,Las Vegas Raiders,Baltimore Ravens,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150rav.htm,rav,rai,False
-2024_019,2024,2,2024-09-15,,Los Angeles Chargers,Carolina Panthers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150car.htm,car,sdg,False
-2024_020,2024,2,2024-09-15,,New Orleans Saints,Dallas Cowboys,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150dal.htm,dal,nor,False
-2024_021,2024,2,2024-09-15,,Tampa Bay Buccaneers,Detroit Lions,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150det.htm,det,tam,False
-2024_022,2024,2,2024-09-15,,Indianapolis Colts,Green Bay Packers,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150gnb.htm,gnb,clt,False
-2024_023,2024,2,2024-09-15,,Cleveland Browns,Jacksonville Jaguars,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150jax.htm,jax,cle,False
-2024_024,2024,2,2024-09-15,,San Francisco 49ers,Minnesota Vikings,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150min.htm,min,sfo,False
-2024_025,2024,2,2024-09-15,,Seattle Seahawks,New England Patriots,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150nwe.htm,nwe,sea,False
-2024_026,2024,2,2024-09-15,,New York Jets,Tennessee Titans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150oti.htm,oti,nyj,False
-2024_027,2024,2,2024-09-15,,New York Giants,Washington Commanders,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150was.htm,was,nyg,False
-2024_028,2024,2,2024-09-15,,Los Angeles Rams,Arizona Cardinals,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202409150crd.htm,crd,ram,False
-2024_029,2024,2,2024-09-15,,Pittsburgh Steelers,Denver Broncos,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202409150den.htm,den,pit,False
-2024_030,2024,2,2024-09-15,,Cincinnati Bengals,Kansas City Chiefs,3:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202409150kan.htm,kan,cin,False
-2024_031,2024,2,2024-09-15,,Chicago Bears,Houston Texans,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409150htx.htm,htx,chi,False
+2024_018,2024,2,2024-09-15,Sun,Las Vegas Raiders,Baltimore Ravens,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150rav.htm,rav,rai,False
+2024_019,2024,2,2024-09-15,Sun,Los Angeles Chargers,Carolina Panthers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150car.htm,car,sdg,False
+2024_020,2024,2,2024-09-15,Sun,New Orleans Saints,Dallas Cowboys,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150dal.htm,dal,nor,False
+2024_021,2024,2,2024-09-15,Sun,Tampa Bay Buccaneers,Detroit Lions,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150det.htm,det,tam,False
+2024_022,2024,2,2024-09-15,Sun,Indianapolis Colts,Green Bay Packers,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150gnb.htm,gnb,clt,False
+2024_023,2024,2,2024-09-15,Sun,Cleveland Browns,Jacksonville Jaguars,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150jax.htm,jax,cle,False
+2024_024,2024,2,2024-09-15,Sun,San Francisco 49ers,Minnesota Vikings,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150min.htm,min,sfo,False
+2024_025,2024,2,2024-09-15,Sun,Seattle Seahawks,New England Patriots,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150nwe.htm,nwe,sea,False
+2024_026,2024,2,2024-09-15,Sun,New York Jets,Tennessee Titans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409150oti.htm,oti,nyj,False
+2024_027,2024,2,2024-09-15,Sun,New York Giants,Washington Commanders,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409150was.htm,was,nyg,False
+2024_028,2024,2,2024-09-15,Sun,Los Angeles Rams,Arizona Cardinals,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202409150crd.htm,crd,ram,False
+2024_029,2024,2,2024-09-15,Sun,Pittsburgh Steelers,Denver Broncos,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202409150den.htm,den,pit,False
+2024_030,2024,2,2024-09-15,Sun,Cincinnati Bengals,Kansas City Chiefs,3:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202409150kan.htm,kan,cin,False
+2024_031,2024,2,2024-09-15,Sun,Chicago Bears,Houston Texans,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409150htx.htm,htx,chi,False
 2024_032,2024,2,2024-09-16,Mon,Atlanta Falcons,Philadelphia Eagles,8:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202409160phi.htm,phi,atl,False
 2024_033,2024,3,2024-09-19,Thu,New England Patriots,New York Jets,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202409190nyj.htm,nyj,nwe,False
-2024_034,2024,3,2024-09-22,,New York Giants,Cleveland Browns,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409220cle.htm,cle,nyg,False
-2024_035,2024,3,2024-09-22,,Chicago Bears,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409220clt.htm,clt,chi,False
-2024_036,2024,3,2024-09-22,,Houston Texans,Minnesota Vikings,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409220min.htm,min,htx,False
-2024_037,2024,3,2024-09-22,,Philadelphia Eagles,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409220nor.htm,nor,phi,False
-2024_038,2024,3,2024-09-22,,Los Angeles Chargers,Pittsburgh Steelers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409220pit.htm,pit,sdg,False
-2024_039,2024,3,2024-09-22,,Denver Broncos,Tampa Bay Buccaneers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409220tam.htm,tam,den,False
-2024_040,2024,3,2024-09-22,,Green Bay Packers,Tennessee Titans,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409220oti.htm,oti,gnb,False
-2024_041,2024,3,2024-09-22,,Carolina Panthers,Las Vegas Raiders,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202409220rai.htm,rai,car,False
-2024_042,2024,3,2024-09-22,,Miami Dolphins,Seattle Seahawks,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202409220sea.htm,sea,mia,False
-2024_043,2024,3,2024-09-22,,Detroit Lions,Arizona Cardinals,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409220crd.htm,crd,det,False
-2024_044,2024,3,2024-09-22,,Baltimore Ravens,Dallas Cowboys,3:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409220dal.htm,dal,rav,False
-2024_045,2024,3,2024-09-22,,San Francisco 49ers,Los Angeles Rams,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409220ram.htm,ram,sfo,False
-2024_046,2024,3,2024-09-22,,Kansas City Chiefs,Atlanta Falcons,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409220atl.htm,atl,kan,False
+2024_034,2024,3,2024-09-22,Sun,New York Giants,Cleveland Browns,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409220cle.htm,cle,nyg,False
+2024_035,2024,3,2024-09-22,Sun,Chicago Bears,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409220clt.htm,clt,chi,False
+2024_036,2024,3,2024-09-22,Sun,Houston Texans,Minnesota Vikings,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409220min.htm,min,htx,False
+2024_037,2024,3,2024-09-22,Sun,Philadelphia Eagles,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409220nor.htm,nor,phi,False
+2024_038,2024,3,2024-09-22,Sun,Los Angeles Chargers,Pittsburgh Steelers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409220pit.htm,pit,sdg,False
+2024_039,2024,3,2024-09-22,Sun,Denver Broncos,Tampa Bay Buccaneers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409220tam.htm,tam,den,False
+2024_040,2024,3,2024-09-22,Sun,Green Bay Packers,Tennessee Titans,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409220oti.htm,oti,gnb,False
+2024_041,2024,3,2024-09-22,Sun,Carolina Panthers,Las Vegas Raiders,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202409220rai.htm,rai,car,False
+2024_042,2024,3,2024-09-22,Sun,Miami Dolphins,Seattle Seahawks,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202409220sea.htm,sea,mia,False
+2024_043,2024,3,2024-09-22,Sun,Detroit Lions,Arizona Cardinals,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409220crd.htm,crd,det,False
+2024_044,2024,3,2024-09-22,Sun,Baltimore Ravens,Dallas Cowboys,3:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409220dal.htm,dal,rav,False
+2024_045,2024,3,2024-09-22,Sun,San Francisco 49ers,Los Angeles Rams,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202409220ram.htm,ram,sfo,False
+2024_046,2024,3,2024-09-22,Sun,Kansas City Chiefs,Atlanta Falcons,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409220atl.htm,atl,kan,False
 2024_047,2024,3,2024-09-23,Mon,Jacksonville Jaguars,Buffalo Bills,7:30p,7:30p,ESPN,https://www.pro-football-reference.com/boxscores/202409230buf.htm,buf,jax,False
 2024_048,2024,3,2024-09-23,Mon,Washington Commanders,Cincinnati Bengals,8:15p,8:15p,,https://www.pro-football-reference.com/boxscores/202409230cin.htm,cin,was,False
 2024_049,2024,4,2024-09-26,Thu,Dallas Cowboys,New York Giants,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202409260nyg.htm,nyg,dal,False
-2024_050,2024,4,2024-09-29,,New Orleans Saints,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409290atl.htm,atl,nor,False
-2024_051,2024,4,2024-09-29,,Cincinnati Bengals,Carolina Panthers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409290car.htm,car,cin,False
-2024_052,2024,4,2024-09-29,,Los Angeles Rams,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409290chi.htm,chi,ram,False
-2024_053,2024,4,2024-09-29,,Minnesota Vikings,Green Bay Packers,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409290gnb.htm,gnb,min,False
-2024_054,2024,4,2024-09-29,,Jacksonville Jaguars,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409290htx.htm,htx,jax,False
-2024_055,2024,4,2024-09-29,,Pittsburgh Steelers,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409290clt.htm,clt,pit,False
-2024_056,2024,4,2024-09-29,,Denver Broncos,New York Jets,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409290nyj.htm,nyj,den,False
-2024_057,2024,4,2024-09-29,,Philadelphia Eagles,Tampa Bay Buccaneers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409290tam.htm,tam,phi,False
-2024_058,2024,4,2024-09-29,,Washington Commanders,Arizona Cardinals,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202409290crd.htm,crd,was,False
-2024_059,2024,4,2024-09-29,,New England Patriots,San Francisco 49ers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202409290sfo.htm,sfo,nwe,False
-2024_060,2024,4,2024-09-29,,Kansas City Chiefs,Los Angeles Chargers,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202409290sdg.htm,sdg,kan,False
-2024_061,2024,4,2024-09-29,,Cleveland Browns,Las Vegas Raiders,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202409290rai.htm,rai,cle,False
-2024_062,2024,4,2024-09-29,,Buffalo Bills,Baltimore Ravens,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409290rav.htm,rav,buf,False
+2024_050,2024,4,2024-09-29,Sun,New Orleans Saints,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409290atl.htm,atl,nor,False
+2024_051,2024,4,2024-09-29,Sun,Cincinnati Bengals,Carolina Panthers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409290car.htm,car,cin,False
+2024_052,2024,4,2024-09-29,Sun,Los Angeles Rams,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409290chi.htm,chi,ram,False
+2024_053,2024,4,2024-09-29,Sun,Minnesota Vikings,Green Bay Packers,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409290gnb.htm,gnb,min,False
+2024_054,2024,4,2024-09-29,Sun,Jacksonville Jaguars,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409290htx.htm,htx,jax,False
+2024_055,2024,4,2024-09-29,Sun,Pittsburgh Steelers,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409290clt.htm,clt,pit,False
+2024_056,2024,4,2024-09-29,Sun,Denver Broncos,New York Jets,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202409290nyj.htm,nyj,den,False
+2024_057,2024,4,2024-09-29,Sun,Philadelphia Eagles,Tampa Bay Buccaneers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202409290tam.htm,tam,phi,False
+2024_058,2024,4,2024-09-29,Sun,Washington Commanders,Arizona Cardinals,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202409290crd.htm,crd,was,False
+2024_059,2024,4,2024-09-29,Sun,New England Patriots,San Francisco 49ers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202409290sfo.htm,sfo,nwe,False
+2024_060,2024,4,2024-09-29,Sun,Kansas City Chiefs,Los Angeles Chargers,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202409290sdg.htm,sdg,kan,False
+2024_061,2024,4,2024-09-29,Sun,Cleveland Browns,Las Vegas Raiders,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202409290rai.htm,rai,cle,False
+2024_062,2024,4,2024-09-29,Sun,Buffalo Bills,Baltimore Ravens,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202409290rav.htm,rav,buf,False
 2024_063,2024,4,2024-09-30,Mon,Tennessee Titans,Miami Dolphins,7:30p,7:30p,ESPN,https://www.pro-football-reference.com/boxscores/202409300mia.htm,mia,oti,False
 2024_064,2024,4,2024-09-30,Mon,Seattle Seahawks,Detroit Lions,8:15p,8:15p,,https://www.pro-football-reference.com/boxscores/202409300det.htm,det,sea,False
 2024_065,2024,5,2024-10-03,Thu,Tampa Bay Buccaneers,Atlanta Falcons,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202410030atl.htm,atl,tam,False
-2024_066,2024,5,2024-10-06,,New York Jets,Minnesota Vikings,2:30p,2:30p,NFLN,https://www.pro-football-reference.com/boxscores/202410060min.htm,min,nyj,True
-2024_067,2024,5,2024-10-06,,Carolina Panthers,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410060chi.htm,chi,car,False
-2024_068,2024,5,2024-10-06,,Baltimore Ravens,Cincinnati Bengals,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410060cin.htm,cin,rav,False
-2024_069,2024,5,2024-10-06,,Buffalo Bills,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410060htx.htm,htx,buf,False
-2024_070,2024,5,2024-10-06,,Indianapolis Colts,Jacksonville Jaguars,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410060jax.htm,jax,clt,False
-2024_071,2024,5,2024-10-06,,Miami Dolphins,New England Patriots,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410060nwe.htm,nwe,mia,False
-2024_072,2024,5,2024-10-06,,Cleveland Browns,Washington Commanders,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410060was.htm,was,cle,False
-2024_073,2024,5,2024-10-06,,Las Vegas Raiders,Denver Broncos,2:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202410060den.htm,den,rai,False
-2024_074,2024,5,2024-10-06,,Arizona Cardinals,San Francisco 49ers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202410060sfo.htm,sfo,crd,False
-2024_075,2024,5,2024-10-06,,Green Bay Packers,Los Angeles Rams,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410060ram.htm,ram,gnb,False
-2024_076,2024,5,2024-10-06,,New York Giants,Seattle Seahawks,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410060sea.htm,sea,nyg,False
-2024_077,2024,5,2024-10-06,,Dallas Cowboys,Pittsburgh Steelers,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202410060pit.htm,pit,dal,False
+2024_066,2024,5,2024-10-06,Sun,New York Jets,Minnesota Vikings,2:30p,2:30p,NFLN,https://www.pro-football-reference.com/boxscores/202410060min.htm,min,nyj,True
+2024_067,2024,5,2024-10-06,Sun,Carolina Panthers,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410060chi.htm,chi,car,False
+2024_068,2024,5,2024-10-06,Sun,Baltimore Ravens,Cincinnati Bengals,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410060cin.htm,cin,rav,False
+2024_069,2024,5,2024-10-06,Sun,Buffalo Bills,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410060htx.htm,htx,buf,False
+2024_070,2024,5,2024-10-06,Sun,Indianapolis Colts,Jacksonville Jaguars,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410060jax.htm,jax,clt,False
+2024_071,2024,5,2024-10-06,Sun,Miami Dolphins,New England Patriots,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410060nwe.htm,nwe,mia,False
+2024_072,2024,5,2024-10-06,Sun,Cleveland Browns,Washington Commanders,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410060was.htm,was,cle,False
+2024_073,2024,5,2024-10-06,Sun,Las Vegas Raiders,Denver Broncos,2:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202410060den.htm,den,rai,False
+2024_074,2024,5,2024-10-06,Sun,Arizona Cardinals,San Francisco 49ers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202410060sfo.htm,sfo,crd,False
+2024_075,2024,5,2024-10-06,Sun,Green Bay Packers,Los Angeles Rams,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410060ram.htm,ram,gnb,False
+2024_076,2024,5,2024-10-06,Sun,New York Giants,Seattle Seahawks,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410060sea.htm,sea,nyg,False
+2024_077,2024,5,2024-10-06,Sun,Dallas Cowboys,Pittsburgh Steelers,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202410060pit.htm,pit,dal,False
 2024_078,2024,5,2024-10-07,Mon,New Orleans Saints,Kansas City Chiefs,7:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202410070kan.htm,kan,nor,False
 2024_079,2024,6,2024-10-10,Thu,San Francisco 49ers,Seattle Seahawks,5:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202410100sea.htm,sea,sfo,False
-2024_080,2024,6,2024-10-13,,Jacksonville Jaguars,Chicago Bears,2:30p,2:30p,NFLN,https://www.pro-football-reference.com/boxscores/202410130chi.htm,chi,jax,True
-2024_081,2024,6,2024-10-13,,Washington Commanders,Baltimore Ravens,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410130rav.htm,rav,was,False
-2024_082,2024,6,2024-10-13,,Arizona Cardinals,Green Bay Packers,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410130gnb.htm,gnb,crd,False
-2024_083,2024,6,2024-10-13,,Houston Texans,New England Patriots,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410130nwe.htm,nwe,htx,False
-2024_084,2024,6,2024-10-13,,Tampa Bay Buccaneers,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410130nor.htm,nor,tam,False
-2024_085,2024,6,2024-10-13,,Cleveland Browns,Philadelphia Eagles,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410130phi.htm,phi,cle,False
-2024_086,2024,6,2024-10-13,,Indianapolis Colts,Tennessee Titans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410130oti.htm,oti,clt,False
-2024_087,2024,6,2024-10-13,,Los Angeles Chargers,Denver Broncos,2:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202410130den.htm,den,sdg,False
-2024_088,2024,6,2024-10-13,,Pittsburgh Steelers,Las Vegas Raiders,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202410130rai.htm,rai,pit,False
-2024_089,2024,6,2024-10-13,,Atlanta Falcons,Carolina Panthers,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202410130car.htm,car,atl,False
-2024_090,2024,6,2024-10-13,,Detroit Lions,Dallas Cowboys,3:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202410130dal.htm,dal,det,False
-2024_091,2024,6,2024-10-13,,Cincinnati Bengals,New York Giants,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202410130nyg.htm,nyg,cin,False
+2024_080,2024,6,2024-10-13,Sun,Jacksonville Jaguars,Chicago Bears,2:30p,2:30p,NFLN,https://www.pro-football-reference.com/boxscores/202410130chi.htm,chi,jax,True
+2024_081,2024,6,2024-10-13,Sun,Washington Commanders,Baltimore Ravens,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410130rav.htm,rav,was,False
+2024_082,2024,6,2024-10-13,Sun,Arizona Cardinals,Green Bay Packers,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410130gnb.htm,gnb,crd,False
+2024_083,2024,6,2024-10-13,Sun,Houston Texans,New England Patriots,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410130nwe.htm,nwe,htx,False
+2024_084,2024,6,2024-10-13,Sun,Tampa Bay Buccaneers,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410130nor.htm,nor,tam,False
+2024_085,2024,6,2024-10-13,Sun,Cleveland Browns,Philadelphia Eagles,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410130phi.htm,phi,cle,False
+2024_086,2024,6,2024-10-13,Sun,Indianapolis Colts,Tennessee Titans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410130oti.htm,oti,clt,False
+2024_087,2024,6,2024-10-13,Sun,Los Angeles Chargers,Denver Broncos,2:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202410130den.htm,den,sdg,False
+2024_088,2024,6,2024-10-13,Sun,Pittsburgh Steelers,Las Vegas Raiders,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202410130rai.htm,rai,pit,False
+2024_089,2024,6,2024-10-13,Sun,Atlanta Falcons,Carolina Panthers,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202410130car.htm,car,atl,False
+2024_090,2024,6,2024-10-13,Sun,Detroit Lions,Dallas Cowboys,3:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202410130dal.htm,dal,det,False
+2024_091,2024,6,2024-10-13,Sun,Cincinnati Bengals,New York Giants,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202410130nyg.htm,nyg,cin,False
 2024_092,2024,6,2024-10-14,Mon,Buffalo Bills,New York Jets,8:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202410140nyj.htm,nyj,buf,False
 2024_093,2024,7,2024-10-17,Thu,Denver Broncos,New Orleans Saints,7:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202410170nor.htm,nor,den,False
-2024_094,2024,7,2024-10-20,,New England Patriots,Jacksonville Jaguars,2:30p,2:30p,NFLN,https://www.pro-football-reference.com/boxscores/202410200jax.htm,jax,nwe,False
-2024_095,2024,7,2024-10-20,,Seattle Seahawks,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410200atl.htm,atl,sea,False
-2024_096,2024,7,2024-10-20,,Tennessee Titans,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410200buf.htm,buf,oti,False
-2024_097,2024,7,2024-10-20,,Cincinnati Bengals,Cleveland Browns,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410200cle.htm,cle,cin,False
-2024_098,2024,7,2024-10-20,,Houston Texans,Green Bay Packers,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410200gnb.htm,gnb,htx,False
-2024_099,2024,7,2024-10-20,,Miami Dolphins,Indianapolis Colts,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410200clt.htm,clt,mia,False
-2024_100,2024,7,2024-10-20,,Detroit Lions,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410200min.htm,min,det,False
-2024_101,2024,7,2024-10-20,,Philadelphia Eagles,New York Giants,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410200nyg.htm,nyg,phi,False
-2024_102,2024,7,2024-10-20,,Las Vegas Raiders,Los Angeles Rams,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202410200ram.htm,ram,rai,False
-2024_103,2024,7,2024-10-20,,Carolina Panthers,Washington Commanders,4:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202410200was.htm,was,car,False
-2024_104,2024,7,2024-10-20,,Kansas City Chiefs,San Francisco 49ers,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202410200sfo.htm,sfo,kan,False
-2024_105,2024,7,2024-10-20,,New York Jets,Pittsburgh Steelers,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202410200pit.htm,pit,nyj,False
+2024_094,2024,7,2024-10-20,Sun,New England Patriots,Jacksonville Jaguars,2:30p,2:30p,NFLN,https://www.pro-football-reference.com/boxscores/202410200jax.htm,jax,nwe,False
+2024_095,2024,7,2024-10-20,Sun,Seattle Seahawks,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410200atl.htm,atl,sea,False
+2024_096,2024,7,2024-10-20,Sun,Tennessee Titans,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410200buf.htm,buf,oti,False
+2024_097,2024,7,2024-10-20,Sun,Cincinnati Bengals,Cleveland Browns,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410200cle.htm,cle,cin,False
+2024_098,2024,7,2024-10-20,Sun,Houston Texans,Green Bay Packers,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410200gnb.htm,gnb,htx,False
+2024_099,2024,7,2024-10-20,Sun,Miami Dolphins,Indianapolis Colts,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410200clt.htm,clt,mia,False
+2024_100,2024,7,2024-10-20,Sun,Detroit Lions,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410200min.htm,min,det,False
+2024_101,2024,7,2024-10-20,Sun,Philadelphia Eagles,New York Giants,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410200nyg.htm,nyg,phi,False
+2024_102,2024,7,2024-10-20,Sun,Las Vegas Raiders,Los Angeles Rams,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202410200ram.htm,ram,rai,False
+2024_103,2024,7,2024-10-20,Sun,Carolina Panthers,Washington Commanders,4:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202410200was.htm,was,car,False
+2024_104,2024,7,2024-10-20,Sun,Kansas City Chiefs,San Francisco 49ers,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202410200sfo.htm,sfo,kan,False
+2024_105,2024,7,2024-10-20,Sun,New York Jets,Pittsburgh Steelers,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202410200pit.htm,pit,nyj,False
 2024_106,2024,7,2024-10-21,Mon,Baltimore Ravens,Tampa Bay Buccaneers,8:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202410210tam.htm,tam,rav,False
 2024_107,2024,7,2024-10-21,Mon,Los Angeles Chargers,Arizona Cardinals,6:00p,9:00p,ESPN,https://www.pro-football-reference.com/boxscores/202410210crd.htm,crd,sdg,False
 2024_108,2024,8,2024-10-24,Thu,Minnesota Vikings,Los Angeles Rams,5:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202410240ram.htm,ram,min,False
-2024_109,2024,8,2024-10-27,,Baltimore Ravens,Cleveland Browns,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410270cle.htm,cle,rav,False
-2024_110,2024,8,2024-10-27,,Tennessee Titans,Detroit Lions,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410270det.htm,det,oti,False
-2024_111,2024,8,2024-10-27,,Indianapolis Colts,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410270htx.htm,htx,clt,False
-2024_112,2024,8,2024-10-27,,Green Bay Packers,Jacksonville Jaguars,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410270jax.htm,jax,gnb,False
-2024_113,2024,8,2024-10-27,,Arizona Cardinals,Miami Dolphins,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410270mia.htm,mia,crd,False
-2024_114,2024,8,2024-10-27,,New York Jets,New England Patriots,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410270nwe.htm,nwe,nyj,False
-2024_115,2024,8,2024-10-27,,Atlanta Falcons,Tampa Bay Buccaneers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410270tam.htm,tam,atl,False
-2024_116,2024,8,2024-10-27,,Chicago Bears,Washington Commanders,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410270was.htm,was,chi,False
-2024_117,2024,8,2024-10-27,,New Orleans Saints,Los Angeles Chargers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202410270sdg.htm,sdg,nor,False
-2024_118,2024,8,2024-10-27,,Buffalo Bills,Seattle Seahawks,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202410270sea.htm,sea,buf,False
-2024_119,2024,8,2024-10-27,,Philadelphia Eagles,Cincinnati Bengals,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410270cin.htm,cin,phi,False
-2024_120,2024,8,2024-10-27,,Carolina Panthers,Denver Broncos,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410270den.htm,den,car,False
-2024_121,2024,8,2024-10-27,,Kansas City Chiefs,Las Vegas Raiders,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410270rai.htm,rai,kan,False
-2024_122,2024,8,2024-10-27,,Dallas Cowboys,San Francisco 49ers,5:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202410270sfo.htm,sfo,dal,False
+2024_109,2024,8,2024-10-27,Sun,Baltimore Ravens,Cleveland Browns,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410270cle.htm,cle,rav,False
+2024_110,2024,8,2024-10-27,Sun,Tennessee Titans,Detroit Lions,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410270det.htm,det,oti,False
+2024_111,2024,8,2024-10-27,Sun,Indianapolis Colts,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410270htx.htm,htx,clt,False
+2024_112,2024,8,2024-10-27,Sun,Green Bay Packers,Jacksonville Jaguars,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410270jax.htm,jax,gnb,False
+2024_113,2024,8,2024-10-27,Sun,Arizona Cardinals,Miami Dolphins,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410270mia.htm,mia,crd,False
+2024_114,2024,8,2024-10-27,Sun,New York Jets,New England Patriots,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410270nwe.htm,nwe,nyj,False
+2024_115,2024,8,2024-10-27,Sun,Atlanta Falcons,Tampa Bay Buccaneers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202410270tam.htm,tam,atl,False
+2024_116,2024,8,2024-10-27,Sun,Chicago Bears,Washington Commanders,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202410270was.htm,was,chi,False
+2024_117,2024,8,2024-10-27,Sun,New Orleans Saints,Los Angeles Chargers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202410270sdg.htm,sdg,nor,False
+2024_118,2024,8,2024-10-27,Sun,Buffalo Bills,Seattle Seahawks,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202410270sea.htm,sea,buf,False
+2024_119,2024,8,2024-10-27,Sun,Philadelphia Eagles,Cincinnati Bengals,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410270cin.htm,cin,phi,False
+2024_120,2024,8,2024-10-27,Sun,Carolina Panthers,Denver Broncos,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410270den.htm,den,car,False
+2024_121,2024,8,2024-10-27,Sun,Kansas City Chiefs,Las Vegas Raiders,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202410270rai.htm,rai,kan,False
+2024_122,2024,8,2024-10-27,Sun,Dallas Cowboys,San Francisco 49ers,5:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202410270sfo.htm,sfo,dal,False
 2024_123,2024,8,2024-10-28,Mon,New York Giants,Pittsburgh Steelers,8:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202410280pit.htm,pit,nyg,False
 2024_124,2024,9,2024-10-31,Thu,Houston Texans,New York Jets,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202410310nyj.htm,nyj,htx,False
-2024_125,2024,9,2024-11-03,,Dallas Cowboys,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411030atl.htm,atl,dal,False
-2024_126,2024,9,2024-11-03,,Denver Broncos,Baltimore Ravens,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030rav.htm,rav,den,False
-2024_127,2024,9,2024-11-03,,Miami Dolphins,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030buf.htm,buf,mia,False
-2024_128,2024,9,2024-11-03,,New Orleans Saints,Carolina Panthers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030car.htm,car,nor,False
-2024_129,2024,9,2024-11-03,,Las Vegas Raiders,Cincinnati Bengals,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411030cin.htm,cin,rai,False
-2024_130,2024,9,2024-11-03,,Los Angeles Chargers,Cleveland Browns,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030cle.htm,cle,sdg,False
-2024_131,2024,9,2024-11-03,,Indianapolis Colts,Minnesota Vikings,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030min.htm,min,clt,False
-2024_132,2024,9,2024-11-03,,Washington Commanders,New York Giants,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411030nyg.htm,nyg,was,False
-2024_133,2024,9,2024-11-03,,New England Patriots,Tennessee Titans,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411030oti.htm,oti,nwe,False
-2024_134,2024,9,2024-11-03,,Chicago Bears,Arizona Cardinals,2:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202411030crd.htm,crd,chi,False
-2024_135,2024,9,2024-11-03,,Detroit Lions,Green Bay Packers,3:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202411030gnb.htm,gnb,det,False
-2024_136,2024,9,2024-11-03,,Los Angeles Rams,Seattle Seahawks,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202411030sea.htm,sea,ram,False
-2024_137,2024,9,2024-11-03,,Jacksonville Jaguars,Philadelphia Eagles,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411030phi.htm,phi,jax,False
+2024_125,2024,9,2024-11-03,Sun,Dallas Cowboys,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411030atl.htm,atl,dal,False
+2024_126,2024,9,2024-11-03,Sun,Denver Broncos,Baltimore Ravens,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030rav.htm,rav,den,False
+2024_127,2024,9,2024-11-03,Sun,Miami Dolphins,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030buf.htm,buf,mia,False
+2024_128,2024,9,2024-11-03,Sun,New Orleans Saints,Carolina Panthers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030car.htm,car,nor,False
+2024_129,2024,9,2024-11-03,Sun,Las Vegas Raiders,Cincinnati Bengals,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411030cin.htm,cin,rai,False
+2024_130,2024,9,2024-11-03,Sun,Los Angeles Chargers,Cleveland Browns,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030cle.htm,cle,sdg,False
+2024_131,2024,9,2024-11-03,Sun,Indianapolis Colts,Minnesota Vikings,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411030min.htm,min,clt,False
+2024_132,2024,9,2024-11-03,Sun,Washington Commanders,New York Giants,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411030nyg.htm,nyg,was,False
+2024_133,2024,9,2024-11-03,Sun,New England Patriots,Tennessee Titans,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411030oti.htm,oti,nwe,False
+2024_134,2024,9,2024-11-03,Sun,Chicago Bears,Arizona Cardinals,2:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202411030crd.htm,crd,chi,False
+2024_135,2024,9,2024-11-03,Sun,Detroit Lions,Green Bay Packers,3:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202411030gnb.htm,gnb,det,False
+2024_136,2024,9,2024-11-03,Sun,Los Angeles Rams,Seattle Seahawks,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202411030sea.htm,sea,ram,False
+2024_137,2024,9,2024-11-03,Sun,Jacksonville Jaguars,Philadelphia Eagles,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411030phi.htm,phi,jax,False
 2024_138,2024,9,2024-11-04,Mon,Tampa Bay Buccaneers,Kansas City Chiefs,7:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202411040kan.htm,kan,tam,False
 2024_139,2024,10,2024-11-07,Thu,Cincinnati Bengals,Baltimore Ravens,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202411070rav.htm,rav,cin,False
-2024_140,2024,10,2024-11-10,,New York Giants,Carolina Panthers,3:30p,3:30p,NFLN,https://www.pro-football-reference.com/boxscores/202411100car.htm,car,nyg,True
-2024_141,2024,10,2024-11-10,,New England Patriots,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411100chi.htm,chi,nwe,False
-2024_142,2024,10,2024-11-10,,Buffalo Bills,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411100clt.htm,clt,buf,False
-2024_143,2024,10,2024-11-10,,Minnesota Vikings,Jacksonville Jaguars,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411100jax.htm,jax,min,False
-2024_144,2024,10,2024-11-10,,Denver Broncos,Kansas City Chiefs,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411100kan.htm,kan,den,False
-2024_145,2024,10,2024-11-10,,Atlanta Falcons,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411100nor.htm,nor,atl,False
-2024_146,2024,10,2024-11-10,,San Francisco 49ers,Tampa Bay Buccaneers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411100tam.htm,tam,sfo,False
-2024_147,2024,10,2024-11-10,,Pittsburgh Steelers,Washington Commanders,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411100was.htm,was,pit,False
-2024_148,2024,10,2024-11-10,,Tennessee Titans,Los Angeles Chargers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202411100sdg.htm,sdg,oti,False
-2024_149,2024,10,2024-11-10,,New York Jets,Arizona Cardinals,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202411100crd.htm,crd,nyj,False
-2024_150,2024,10,2024-11-10,,Philadelphia Eagles,Dallas Cowboys,3:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202411100dal.htm,dal,phi,False
-2024_151,2024,10,2024-11-10,,Detroit Lions,Houston Texans,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411100htx.htm,htx,det,False
+2024_140,2024,10,2024-11-10,Sun,New York Giants,Carolina Panthers,3:30p,3:30p,NFLN,https://www.pro-football-reference.com/boxscores/202411100car.htm,car,nyg,True
+2024_141,2024,10,2024-11-10,Sun,New England Patriots,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411100chi.htm,chi,nwe,False
+2024_142,2024,10,2024-11-10,Sun,Buffalo Bills,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411100clt.htm,clt,buf,False
+2024_143,2024,10,2024-11-10,Sun,Minnesota Vikings,Jacksonville Jaguars,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411100jax.htm,jax,min,False
+2024_144,2024,10,2024-11-10,Sun,Denver Broncos,Kansas City Chiefs,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411100kan.htm,kan,den,False
+2024_145,2024,10,2024-11-10,Sun,Atlanta Falcons,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411100nor.htm,nor,atl,False
+2024_146,2024,10,2024-11-10,Sun,San Francisco 49ers,Tampa Bay Buccaneers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411100tam.htm,tam,sfo,False
+2024_147,2024,10,2024-11-10,Sun,Pittsburgh Steelers,Washington Commanders,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411100was.htm,was,pit,False
+2024_148,2024,10,2024-11-10,Sun,Tennessee Titans,Los Angeles Chargers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202411100sdg.htm,sdg,oti,False
+2024_149,2024,10,2024-11-10,Sun,New York Jets,Arizona Cardinals,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202411100crd.htm,crd,nyj,False
+2024_150,2024,10,2024-11-10,Sun,Philadelphia Eagles,Dallas Cowboys,3:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202411100dal.htm,dal,phi,False
+2024_151,2024,10,2024-11-10,Sun,Detroit Lions,Houston Texans,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411100htx.htm,htx,det,False
 2024_152,2024,10,2024-11-11,Mon,Miami Dolphins,Los Angeles Rams,5:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202411110ram.htm,ram,mia,False
 2024_153,2024,11,2024-11-14,Thu,Washington Commanders,Philadelphia Eagles,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202411140phi.htm,phi,was,False
-2024_154,2024,11,2024-11-17,,Green Bay Packers,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411170chi.htm,chi,gnb,False
-2024_155,2024,11,2024-11-17,,Jacksonville Jaguars,Detroit Lions,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411170det.htm,det,jax,False
-2024_156,2024,11,2024-11-17,,Las Vegas Raiders,Miami Dolphins,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411170mia.htm,mia,rai,False
-2024_157,2024,11,2024-11-17,,Los Angeles Rams,New England Patriots,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411170nwe.htm,nwe,ram,False
-2024_158,2024,11,2024-11-17,,Cleveland Browns,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411170nor.htm,nor,cle,False
-2024_159,2024,11,2024-11-17,,Baltimore Ravens,Pittsburgh Steelers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411170pit.htm,pit,rav,False
-2024_160,2024,11,2024-11-17,,Minnesota Vikings,Tennessee Titans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411170oti.htm,oti,min,False
-2024_161,2024,11,2024-11-17,,Atlanta Falcons,Denver Broncos,2:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202411170den.htm,den,atl,False
-2024_162,2024,11,2024-11-17,,Seattle Seahawks,San Francisco 49ers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202411170sfo.htm,sfo,sea,False
-2024_163,2024,11,2024-11-17,,Kansas City Chiefs,Buffalo Bills,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202411170buf.htm,buf,kan,False
-2024_164,2024,11,2024-11-17,,Cincinnati Bengals,Los Angeles Chargers,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202411170sdg.htm,sdg,cin,False
-2024_165,2024,11,2024-11-17,,Indianapolis Colts,New York Jets,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411170nyj.htm,nyj,clt,False
+2024_154,2024,11,2024-11-17,Sun,Green Bay Packers,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411170chi.htm,chi,gnb,False
+2024_155,2024,11,2024-11-17,Sun,Jacksonville Jaguars,Detroit Lions,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411170det.htm,det,jax,False
+2024_156,2024,11,2024-11-17,Sun,Las Vegas Raiders,Miami Dolphins,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411170mia.htm,mia,rai,False
+2024_157,2024,11,2024-11-17,Sun,Los Angeles Rams,New England Patriots,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411170nwe.htm,nwe,ram,False
+2024_158,2024,11,2024-11-17,Sun,Cleveland Browns,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411170nor.htm,nor,cle,False
+2024_159,2024,11,2024-11-17,Sun,Baltimore Ravens,Pittsburgh Steelers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411170pit.htm,pit,rav,False
+2024_160,2024,11,2024-11-17,Sun,Minnesota Vikings,Tennessee Titans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411170oti.htm,oti,min,False
+2024_161,2024,11,2024-11-17,Sun,Atlanta Falcons,Denver Broncos,2:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202411170den.htm,den,atl,False
+2024_162,2024,11,2024-11-17,Sun,Seattle Seahawks,San Francisco 49ers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202411170sfo.htm,sfo,sea,False
+2024_163,2024,11,2024-11-17,Sun,Kansas City Chiefs,Buffalo Bills,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202411170buf.htm,buf,kan,False
+2024_164,2024,11,2024-11-17,Sun,Cincinnati Bengals,Los Angeles Chargers,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202411170sdg.htm,sdg,cin,False
+2024_165,2024,11,2024-11-17,Sun,Indianapolis Colts,New York Jets,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411170nyj.htm,nyj,clt,False
 2024_166,2024,11,2024-11-18,Mon,Houston Texans,Dallas Cowboys,7:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202411180dal.htm,dal,htx,False
 2024_167,2024,12,2024-11-21,Thu,Pittsburgh Steelers,Cleveland Browns,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202411210cle.htm,cle,pit,False
-2024_168,2024,12,2024-11-24,,Kansas City Chiefs,Carolina Panthers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411240car.htm,car,kan,False
-2024_169,2024,12,2024-11-24,,Minnesota Vikings,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411240chi.htm,chi,min,False
-2024_170,2024,12,2024-11-24,,Tennessee Titans,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411240htx.htm,htx,oti,False
-2024_171,2024,12,2024-11-24,,Detroit Lions,Indianapolis Colts,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411240clt.htm,clt,det,False
-2024_172,2024,12,2024-11-24,,New England Patriots,Miami Dolphins,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411240mia.htm,mia,nwe,False
-2024_173,2024,12,2024-11-24,,Tampa Bay Buccaneers,New York Giants,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411240nyg.htm,nyg,tam,False
-2024_174,2024,12,2024-11-24,,Dallas Cowboys,Washington Commanders,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411240was.htm,was,dal,False
-2024_175,2024,12,2024-11-24,,Denver Broncos,Las Vegas Raiders,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202411240rai.htm,rai,den,False
-2024_176,2024,12,2024-11-24,,San Francisco 49ers,Green Bay Packers,3:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202411240gnb.htm,gnb,sfo,False
-2024_177,2024,12,2024-11-24,,Arizona Cardinals,Seattle Seahawks,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202411240sea.htm,sea,crd,False
-2024_178,2024,12,2024-11-24,,Philadelphia Eagles,Los Angeles Rams,5:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411240ram.htm,ram,phi,False
+2024_168,2024,12,2024-11-24,Sun,Kansas City Chiefs,Carolina Panthers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411240car.htm,car,kan,False
+2024_169,2024,12,2024-11-24,Sun,Minnesota Vikings,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411240chi.htm,chi,min,False
+2024_170,2024,12,2024-11-24,Sun,Tennessee Titans,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411240htx.htm,htx,oti,False
+2024_171,2024,12,2024-11-24,Sun,Detroit Lions,Indianapolis Colts,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411240clt.htm,clt,det,False
+2024_172,2024,12,2024-11-24,Sun,New England Patriots,Miami Dolphins,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411240mia.htm,mia,nwe,False
+2024_173,2024,12,2024-11-24,Sun,Tampa Bay Buccaneers,New York Giants,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202411240nyg.htm,nyg,tam,False
+2024_174,2024,12,2024-11-24,Sun,Dallas Cowboys,Washington Commanders,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202411240was.htm,was,dal,False
+2024_175,2024,12,2024-11-24,Sun,Denver Broncos,Las Vegas Raiders,1:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202411240rai.htm,rai,den,False
+2024_176,2024,12,2024-11-24,Sun,San Francisco 49ers,Green Bay Packers,3:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202411240gnb.htm,gnb,sfo,False
+2024_177,2024,12,2024-11-24,Sun,Arizona Cardinals,Seattle Seahawks,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202411240sea.htm,sea,crd,False
+2024_178,2024,12,2024-11-24,Sun,Philadelphia Eagles,Los Angeles Rams,5:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411240ram.htm,ram,phi,False
 2024_179,2024,12,2024-11-25,Mon,Baltimore Ravens,Los Angeles Chargers,5:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202411250sdg.htm,sdg,rav,False
-2024_180,2024,13,2024-11-28,,Chicago Bears,Detroit Lions,12:30p,12:30p,CBS,https://www.pro-football-reference.com/boxscores/202411280det.htm,det,chi,False
-2024_181,2024,13,2024-11-28,,New York Giants,Dallas Cowboys,3:30p,4:30p,FOX,https://www.pro-football-reference.com/boxscores/202411280dal.htm,dal,nyg,False
-2024_182,2024,13,2024-11-28,,Miami Dolphins,Green Bay Packers,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411280gnb.htm,gnb,mia,False
+2024_180,2024,13,2024-11-28,Thu,Chicago Bears,Detroit Lions,12:30p,12:30p,CBS,https://www.pro-football-reference.com/boxscores/202411280det.htm,det,chi,False
+2024_181,2024,13,2024-11-28,Thu,New York Giants,Dallas Cowboys,3:30p,4:30p,FOX,https://www.pro-football-reference.com/boxscores/202411280dal.htm,dal,nyg,False
+2024_182,2024,13,2024-11-28,Thu,Miami Dolphins,Green Bay Packers,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202411280gnb.htm,gnb,mia,False
 2024_183,2024,13,2024-11-29,Fri,Las Vegas Raiders,Kansas City Chiefs,2:00p,3:00p,Prime Video,https://www.pro-football-reference.com/boxscores/202411290kan.htm,kan,rai,False
-2024_184,2024,13,2024-12-01,,Los Angeles Chargers,Atlanta Falcons,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412010atl.htm,atl,sdg,False
-2024_185,2024,13,2024-12-01,,Pittsburgh Steelers,Cincinnati Bengals,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412010cin.htm,cin,pit,False
-2024_186,2024,13,2024-12-01,,Houston Texans,Jacksonville Jaguars,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412010jax.htm,jax,htx,False
-2024_187,2024,13,2024-12-01,,Arizona Cardinals,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412010min.htm,min,crd,False
-2024_188,2024,13,2024-12-01,,Indianapolis Colts,New England Patriots,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412010nwe.htm,nwe,clt,False
-2024_189,2024,13,2024-12-01,,Seattle Seahawks,New York Jets,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412010nyj.htm,nyj,sea,False
-2024_190,2024,13,2024-12-01,,Tennessee Titans,Washington Commanders,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412010was.htm,was,oti,False
-2024_191,2024,13,2024-12-01,,Tampa Bay Buccaneers,Carolina Panthers,4:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202412010car.htm,car,tam,False
-2024_192,2024,13,2024-12-01,,Los Angeles Rams,New Orleans Saints,3:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202412010nor.htm,nor,ram,False
-2024_193,2024,13,2024-12-01,,Philadelphia Eagles,Baltimore Ravens,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412010rav.htm,rav,phi,False
-2024_194,2024,13,2024-12-01,,San Francisco 49ers,Buffalo Bills,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412010buf.htm,buf,sfo,False
+2024_184,2024,13,2024-12-01,Sun,Los Angeles Chargers,Atlanta Falcons,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412010atl.htm,atl,sdg,False
+2024_185,2024,13,2024-12-01,Sun,Pittsburgh Steelers,Cincinnati Bengals,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412010cin.htm,cin,pit,False
+2024_186,2024,13,2024-12-01,Sun,Houston Texans,Jacksonville Jaguars,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412010jax.htm,jax,htx,False
+2024_187,2024,13,2024-12-01,Sun,Arizona Cardinals,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412010min.htm,min,crd,False
+2024_188,2024,13,2024-12-01,Sun,Indianapolis Colts,New England Patriots,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412010nwe.htm,nwe,clt,False
+2024_189,2024,13,2024-12-01,Sun,Seattle Seahawks,New York Jets,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412010nyj.htm,nyj,sea,False
+2024_190,2024,13,2024-12-01,Sun,Tennessee Titans,Washington Commanders,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412010was.htm,was,oti,False
+2024_191,2024,13,2024-12-01,Sun,Tampa Bay Buccaneers,Carolina Panthers,4:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202412010car.htm,car,tam,False
+2024_192,2024,13,2024-12-01,Sun,Los Angeles Rams,New Orleans Saints,3:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202412010nor.htm,nor,ram,False
+2024_193,2024,13,2024-12-01,Sun,Philadelphia Eagles,Baltimore Ravens,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412010rav.htm,rav,phi,False
+2024_194,2024,13,2024-12-01,Sun,San Francisco 49ers,Buffalo Bills,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412010buf.htm,buf,sfo,False
 2024_195,2024,13,2024-12-02,Mon,Cleveland Browns,Denver Broncos,6:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202412020den.htm,den,cle,False
 2024_196,2024,14,2024-12-05,Thu,Green Bay Packers,Detroit Lions,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202412050det.htm,det,gnb,False
-2024_197,2024,14,2024-12-08,,New York Jets,Miami Dolphins,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412080mia.htm,mia,nyj,False
-2024_198,2024,14,2024-12-08,,Atlanta Falcons,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412080min.htm,min,atl,False
-2024_199,2024,14,2024-12-08,,New Orleans Saints,New York Giants,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412080nyg.htm,nyg,nor,False
-2024_200,2024,14,2024-12-08,,Carolina Panthers,Philadelphia Eagles,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412080phi.htm,phi,car,False
-2024_201,2024,14,2024-12-08,,Cleveland Browns,Pittsburgh Steelers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412080pit.htm,pit,cle,False
-2024_202,2024,14,2024-12-08,,Las Vegas Raiders,Tampa Bay Buccaneers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412080tam.htm,tam,rai,False
-2024_203,2024,14,2024-12-08,,Jacksonville Jaguars,Tennessee Titans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412080oti.htm,oti,jax,False
-2024_204,2024,14,2024-12-08,,Seattle Seahawks,Arizona Cardinals,2:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202412080crd.htm,crd,sea,False
-2024_205,2024,14,2024-12-08,,Buffalo Bills,Los Angeles Rams,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412080ram.htm,ram,buf,False
-2024_206,2024,14,2024-12-08,,Chicago Bears,San Francisco 49ers,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412080sfo.htm,sfo,chi,False
-2024_207,2024,14,2024-12-08,,Los Angeles Chargers,Kansas City Chiefs,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412080kan.htm,kan,sdg,False
+2024_197,2024,14,2024-12-08,Sun,New York Jets,Miami Dolphins,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412080mia.htm,mia,nyj,False
+2024_198,2024,14,2024-12-08,Sun,Atlanta Falcons,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412080min.htm,min,atl,False
+2024_199,2024,14,2024-12-08,Sun,New Orleans Saints,New York Giants,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412080nyg.htm,nyg,nor,False
+2024_200,2024,14,2024-12-08,Sun,Carolina Panthers,Philadelphia Eagles,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412080phi.htm,phi,car,False
+2024_201,2024,14,2024-12-08,Sun,Cleveland Browns,Pittsburgh Steelers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412080pit.htm,pit,cle,False
+2024_202,2024,14,2024-12-08,Sun,Las Vegas Raiders,Tampa Bay Buccaneers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412080tam.htm,tam,rai,False
+2024_203,2024,14,2024-12-08,Sun,Jacksonville Jaguars,Tennessee Titans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412080oti.htm,oti,jax,False
+2024_204,2024,14,2024-12-08,Sun,Seattle Seahawks,Arizona Cardinals,2:05p,4:05p,CBS,https://www.pro-football-reference.com/boxscores/202412080crd.htm,crd,sea,False
+2024_205,2024,14,2024-12-08,Sun,Buffalo Bills,Los Angeles Rams,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412080ram.htm,ram,buf,False
+2024_206,2024,14,2024-12-08,Sun,Chicago Bears,San Francisco 49ers,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412080sfo.htm,sfo,chi,False
+2024_207,2024,14,2024-12-08,Sun,Los Angeles Chargers,Kansas City Chiefs,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412080kan.htm,kan,sdg,False
 2024_208,2024,14,2024-12-09,Mon,Cincinnati Bengals,Dallas Cowboys,7:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202412090dal.htm,dal,cin,False
 2024_209,2024,15,2024-12-12,Thu,Los Angeles Rams,San Francisco 49ers,5:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202412120sfo.htm,sfo,ram,False
-2024_210,2024,15,2024-12-15,,Dallas Cowboys,Carolina Panthers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412150car.htm,car,dal,False
-2024_211,2024,15,2024-12-15,,Kansas City Chiefs,Cleveland Browns,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412150cle.htm,cle,kan,False
-2024_212,2024,15,2024-12-15,,Miami Dolphins,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412150htx.htm,htx,mia,False
-2024_213,2024,15,2024-12-15,,New York Jets,Jacksonville Jaguars,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412150jax.htm,jax,nyj,False
-2024_214,2024,15,2024-12-15,,Washington Commanders,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412150nor.htm,nor,was,False
-2024_215,2024,15,2024-12-15,,Baltimore Ravens,New York Giants,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412150nyg.htm,nyg,rav,False
-2024_216,2024,15,2024-12-15,,Cincinnati Bengals,Tennessee Titans,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412150oti.htm,oti,cin,False
-2024_217,2024,15,2024-12-15,,New England Patriots,Arizona Cardinals,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412150crd.htm,crd,nwe,False
-2024_218,2024,15,2024-12-15,,Indianapolis Colts,Denver Broncos,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412150den.htm,den,clt,False
-2024_219,2024,15,2024-12-15,,Buffalo Bills,Detroit Lions,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412150det.htm,det,buf,False
-2024_220,2024,15,2024-12-15,,Tampa Bay Buccaneers,Los Angeles Chargers,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412150sdg.htm,sdg,tam,False
-2024_221,2024,15,2024-12-15,,Pittsburgh Steelers,Philadelphia Eagles,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412150phi.htm,phi,pit,False
-2024_222,2024,15,2024-12-15,,Green Bay Packers,Seattle Seahawks,5:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412150sea.htm,sea,gnb,False
+2024_210,2024,15,2024-12-15,Sun,Dallas Cowboys,Carolina Panthers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412150car.htm,car,dal,False
+2024_211,2024,15,2024-12-15,Sun,Kansas City Chiefs,Cleveland Browns,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412150cle.htm,cle,kan,False
+2024_212,2024,15,2024-12-15,Sun,Miami Dolphins,Houston Texans,12:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412150htx.htm,htx,mia,False
+2024_213,2024,15,2024-12-15,Sun,New York Jets,Jacksonville Jaguars,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412150jax.htm,jax,nyj,False
+2024_214,2024,15,2024-12-15,Sun,Washington Commanders,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412150nor.htm,nor,was,False
+2024_215,2024,15,2024-12-15,Sun,Baltimore Ravens,New York Giants,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412150nyg.htm,nyg,rav,False
+2024_216,2024,15,2024-12-15,Sun,Cincinnati Bengals,Tennessee Titans,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412150oti.htm,oti,cin,False
+2024_217,2024,15,2024-12-15,Sun,New England Patriots,Arizona Cardinals,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412150crd.htm,crd,nwe,False
+2024_218,2024,15,2024-12-15,Sun,Indianapolis Colts,Denver Broncos,2:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412150den.htm,den,clt,False
+2024_219,2024,15,2024-12-15,Sun,Buffalo Bills,Detroit Lions,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412150det.htm,det,buf,False
+2024_220,2024,15,2024-12-15,Sun,Tampa Bay Buccaneers,Los Angeles Chargers,1:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412150sdg.htm,sdg,tam,False
+2024_221,2024,15,2024-12-15,Sun,Pittsburgh Steelers,Philadelphia Eagles,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412150phi.htm,phi,pit,False
+2024_222,2024,15,2024-12-15,Sun,Green Bay Packers,Seattle Seahawks,5:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412150sea.htm,sea,gnb,False
 2024_223,2024,15,2024-12-16,Mon,Chicago Bears,Minnesota Vikings,7:00p,8:00p,,https://www.pro-football-reference.com/boxscores/202412160min.htm,min,chi,False
 2024_224,2024,15,2024-12-16,Mon,Atlanta Falcons,Las Vegas Raiders,5:30p,8:30p,ESPN,https://www.pro-football-reference.com/boxscores/202412160rai.htm,rai,atl,False
 2024_225,2024,16,2024-12-19,Thu,Cleveland Browns,Cincinnati Bengals,8:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202412190cin.htm,cin,cle,False
 2024_226,2024,16,2024-12-21,Sat,Houston Texans,Kansas City Chiefs,12:00p,1:00p,NBC,https://www.pro-football-reference.com/boxscores/202412210kan.htm,kan,htx,False
 2024_227,2024,16,2024-12-21,Sat,Pittsburgh Steelers,Baltimore Ravens,4:30p,4:30p,FOX,https://www.pro-football-reference.com/boxscores/202412210rav.htm,rav,pit,False
-2024_228,2024,16,2024-12-22,,New York Giants,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412220atl.htm,atl,nyg,False
-2024_229,2024,16,2024-12-22,,New England Patriots,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412220buf.htm,buf,nwe,False
-2024_230,2024,16,2024-12-22,,Arizona Cardinals,Carolina Panthers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412220car.htm,car,crd,False
-2024_231,2024,16,2024-12-22,,Detroit Lions,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412220chi.htm,chi,det,False
-2024_232,2024,16,2024-12-22,,Tennessee Titans,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412220clt.htm,clt,oti,False
-2024_233,2024,16,2024-12-22,,Los Angeles Rams,New York Jets,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412220nyj.htm,nyj,ram,False
-2024_234,2024,16,2024-12-22,,Philadelphia Eagles,Washington Commanders,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412220was.htm,was,phi,False
-2024_235,2024,16,2024-12-22,,Denver Broncos,Los Angeles Chargers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202412220sdg.htm,sdg,den,False
-2024_236,2024,16,2024-12-22,,Minnesota Vikings,Seattle Seahawks,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202412220sea.htm,sea,min,False
-2024_237,2024,16,2024-12-22,,Jacksonville Jaguars,Las Vegas Raiders,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412220rai.htm,rai,jax,False
-2024_238,2024,16,2024-12-22,,San Francisco 49ers,Miami Dolphins,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412220mia.htm,mia,sfo,False
-2024_239,2024,16,2024-12-22,,Tampa Bay Buccaneers,Dallas Cowboys,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412220dal.htm,dal,tam,False
+2024_228,2024,16,2024-12-22,Sun,New York Giants,Atlanta Falcons,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412220atl.htm,atl,nyg,False
+2024_229,2024,16,2024-12-22,Sun,New England Patriots,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412220buf.htm,buf,nwe,False
+2024_230,2024,16,2024-12-22,Sun,Arizona Cardinals,Carolina Panthers,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412220car.htm,car,crd,False
+2024_231,2024,16,2024-12-22,Sun,Detroit Lions,Chicago Bears,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412220chi.htm,chi,det,False
+2024_232,2024,16,2024-12-22,Sun,Tennessee Titans,Indianapolis Colts,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412220clt.htm,clt,oti,False
+2024_233,2024,16,2024-12-22,Sun,Los Angeles Rams,New York Jets,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412220nyj.htm,nyj,ram,False
+2024_234,2024,16,2024-12-22,Sun,Philadelphia Eagles,Washington Commanders,1:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412220was.htm,was,phi,False
+2024_235,2024,16,2024-12-22,Sun,Denver Broncos,Los Angeles Chargers,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202412220sdg.htm,sdg,den,False
+2024_236,2024,16,2024-12-22,Sun,Minnesota Vikings,Seattle Seahawks,1:05p,4:05p,FOX,https://www.pro-football-reference.com/boxscores/202412220sea.htm,sea,min,False
+2024_237,2024,16,2024-12-22,Sun,Jacksonville Jaguars,Las Vegas Raiders,1:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412220rai.htm,rai,jax,False
+2024_238,2024,16,2024-12-22,Sun,San Francisco 49ers,Miami Dolphins,4:25p,4:25p,CBS,https://www.pro-football-reference.com/boxscores/202412220mia.htm,mia,sfo,False
+2024_239,2024,16,2024-12-22,Sun,Tampa Bay Buccaneers,Dallas Cowboys,7:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412220dal.htm,dal,tam,False
 2024_240,2024,16,2024-12-23,Mon,New Orleans Saints,Green Bay Packers,7:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202412230gnb.htm,gnb,nor,False
 2024_241,2024,17,2024-12-25,Wed,Kansas City Chiefs,Pittsburgh Steelers,1:00p,1:00p,,https://www.pro-football-reference.com/boxscores/202412250pit.htm,pit,kan,False
 2024_242,2024,17,2024-12-25,Wed,Baltimore Ravens,Houston Texans,3:30p,4:30p,,https://www.pro-football-reference.com/boxscores/202412250htx.htm,htx,rav,False
 2024_243,2024,17,2024-12-26,Thu,Seattle Seahawks,Chicago Bears,7:15p,8:15p,Prime Video,https://www.pro-football-reference.com/boxscores/202412260chi.htm,chi,sea,False
-2024_244,2024,17,2024-12-28,,Denver Broncos,Cincinnati Bengals,,,,https://www.pro-football-reference.com/boxscores/202412280cin.htm,cin,den,False
-2024_245,2024,17,2024-12-28,,Arizona Cardinals,Los Angeles Rams,,,,https://www.pro-football-reference.com/boxscores/202412280ram.htm,ram,crd,False
-2024_246,2024,17,2024-12-28,,Los Angeles Chargers,New England Patriots,,,,https://www.pro-football-reference.com/boxscores/202412280nwe.htm,nwe,sdg,False
-2024_247,2024,17,2024-12-28,,Indianapolis Colts,New York Giants,,,,https://www.pro-football-reference.com/boxscores/202412280nyg.htm,nyg,clt,False
-2024_248,2024,17,2024-12-28,,Atlanta Falcons,Washington Commanders,,,,https://www.pro-football-reference.com/boxscores/202412280was.htm,was,atl,False
-2024_249,2024,17,2024-12-29,,New York Jets,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412290buf.htm,buf,nyj,False
-2024_250,2024,17,2024-12-29,,Tennessee Titans,Jacksonville Jaguars,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412290jax.htm,jax,oti,False
-2024_251,2024,17,2024-12-29,,Green Bay Packers,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412290min.htm,min,gnb,False
-2024_252,2024,17,2024-12-29,,Las Vegas Raiders,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412290nor.htm,nor,rai,False
-2024_253,2024,17,2024-12-29,,Carolina Panthers,Tampa Bay Buccaneers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412290tam.htm,tam,car,False
-2024_254,2024,17,2024-12-29,,Dallas Cowboys,Philadelphia Eagles,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412290phi.htm,phi,dal,False
-2024_255,2024,17,2024-12-29,,Miami Dolphins,Cleveland Browns,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412290cle.htm,cle,mia,False
+2024_244,2024,17,2024-12-28,Sat,Denver Broncos,Cincinnati Bengals,,4:30p,,https://www.pro-football-reference.com/boxscores/202412280cin.htm,cin,den,False
+2024_245,2024,17,2024-12-28,Sat,Arizona Cardinals,Los Angeles Rams,,4:30p,,https://www.pro-football-reference.com/boxscores/202412280ram.htm,ram,crd,False
+2024_246,2024,17,2024-12-28,Sat,Los Angeles Chargers,New England Patriots,,1:00p,,https://www.pro-football-reference.com/boxscores/202412280nwe.htm,nwe,sdg,False
+2024_247,2024,17,2024-12-28,Sat,Indianapolis Colts,New York Giants,,1:00p,,https://www.pro-football-reference.com/boxscores/202412280nyg.htm,nyg,clt,False
+2024_248,2024,17,2024-12-28,Sat,Atlanta Falcons,Washington Commanders,,8:15p,,https://www.pro-football-reference.com/boxscores/202412280was.htm,was,atl,False
+2024_249,2024,17,2024-12-29,Sun,New York Jets,Buffalo Bills,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412290buf.htm,buf,nyj,False
+2024_250,2024,17,2024-12-29,Sun,Tennessee Titans,Jacksonville Jaguars,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412290jax.htm,jax,oti,False
+2024_251,2024,17,2024-12-29,Sun,Green Bay Packers,Minnesota Vikings,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412290min.htm,min,gnb,False
+2024_252,2024,17,2024-12-29,Sun,Las Vegas Raiders,New Orleans Saints,12:00p,1:00p,FOX,https://www.pro-football-reference.com/boxscores/202412290nor.htm,nor,rai,False
+2024_253,2024,17,2024-12-29,Sun,Carolina Panthers,Tampa Bay Buccaneers,1:00p,1:00p,CBS,https://www.pro-football-reference.com/boxscores/202412290tam.htm,tam,car,False
+2024_254,2024,17,2024-12-29,Sun,Dallas Cowboys,Philadelphia Eagles,4:25p,4:25p,FOX,https://www.pro-football-reference.com/boxscores/202412290phi.htm,phi,dal,False
+2024_255,2024,17,2024-12-29,Sun,Miami Dolphins,Cleveland Browns,8:20p,8:20p,NBC,https://www.pro-football-reference.com/boxscores/202412290cle.htm,cle,mia,False
 2024_256,2024,17,2024-12-30,Mon,Detroit Lions,San Francisco 49ers,5:15p,8:15p,ESPN,https://www.pro-football-reference.com/boxscores/202412300sfo.htm,sfo,det,False
-2024_257,2024,18,2025-01-05,,San Francisco 49ers,Arizona Cardinals,,,,https://www.pro-football-reference.com/boxscores/202501050crd.htm,crd,sfo,False
-2024_258,2024,18,2025-01-05,,Carolina Panthers,Atlanta Falcons,,,,https://www.pro-football-reference.com/boxscores/202501050atl.htm,atl,car,False
-2024_259,2024,18,2025-01-05,,Cleveland Browns,Baltimore Ravens,,,,https://www.pro-football-reference.com/boxscores/202501050rav.htm,rav,cle,False
-2024_260,2024,18,2025-01-05,,Washington Commanders,Dallas Cowboys,,,,https://www.pro-football-reference.com/boxscores/202501050dal.htm,dal,was,False
-2024_261,2024,18,2025-01-05,,Kansas City Chiefs,Denver Broncos,,,,https://www.pro-football-reference.com/boxscores/202501050den.htm,den,kan,False
-2024_262,2024,18,2025-01-05,,Minnesota Vikings,Detroit Lions,,,,https://www.pro-football-reference.com/boxscores/202501050det.htm,det,min,False
-2024_263,2024,18,2025-01-05,,Chicago Bears,Green Bay Packers,,,,https://www.pro-football-reference.com/boxscores/202501050gnb.htm,gnb,chi,False
-2024_264,2024,18,2025-01-05,,Jacksonville Jaguars,Indianapolis Colts,,,,https://www.pro-football-reference.com/boxscores/202501050clt.htm,clt,jax,False
-2024_265,2024,18,2025-01-05,,Seattle Seahawks,Los Angeles Rams,,,,https://www.pro-football-reference.com/boxscores/202501050ram.htm,ram,sea,False
-2024_266,2024,18,2025-01-05,,Los Angeles Chargers,Las Vegas Raiders,,,,https://www.pro-football-reference.com/boxscores/202501050rai.htm,rai,sdg,False
-2024_267,2024,18,2025-01-05,,Buffalo Bills,New England Patriots,,,,https://www.pro-football-reference.com/boxscores/202501050nwe.htm,nwe,buf,False
-2024_268,2024,18,2025-01-05,,Miami Dolphins,New York Jets,,,,https://www.pro-football-reference.com/boxscores/202501050nyj.htm,nyj,mia,False
-2024_269,2024,18,2025-01-05,,New York Giants,Philadelphia Eagles,,,,https://www.pro-football-reference.com/boxscores/202501050phi.htm,phi,nyg,False
-2024_270,2024,18,2025-01-05,,Cincinnati Bengals,Pittsburgh Steelers,,,,https://www.pro-football-reference.com/boxscores/202501050pit.htm,pit,cin,False
-2024_271,2024,18,2025-01-05,,New Orleans Saints,Tampa Bay Buccaneers,,,,https://www.pro-football-reference.com/boxscores/202501050tam.htm,tam,nor,False
-2024_272,2024,18,2025-01-05,,Houston Texans,Tennessee Titans,,,,https://www.pro-football-reference.com/boxscores/202501050oti.htm,oti,htx,False
+2024_257,2024,18,2025-01-05,Sun,San Francisco 49ers,Arizona Cardinals,,4:25p,,https://www.pro-football-reference.com/boxscores/202501050crd.htm,crd,sfo,False
+2024_258,2024,18,2025-01-05,Sun,Carolina Panthers,Atlanta Falcons,,1:00p,,https://www.pro-football-reference.com/boxscores/202501050atl.htm,atl,car,False
+2024_259,2024,18,2025-01-05,Sun,Cleveland Browns,Baltimore Ravens,,4:30p,,https://www.pro-football-reference.com/boxscores/202501050rav.htm,rav,cle,False
+2024_260,2024,18,2025-01-05,Sun,Washington Commanders,Dallas Cowboys,,1:00p,,https://www.pro-football-reference.com/boxscores/202501050dal.htm,dal,was,False
+2024_261,2024,18,2025-01-05,Sun,Kansas City Chiefs,Denver Broncos,,4:25p,,https://www.pro-football-reference.com/boxscores/202501050den.htm,den,kan,False
+2024_262,2024,18,2025-01-05,Sun,Minnesota Vikings,Detroit Lions,,8:20p,,https://www.pro-football-reference.com/boxscores/202501050det.htm,det,min,False
+2024_263,2024,18,2025-01-05,Sun,Chicago Bears,Green Bay Packers,,1:00p,,https://www.pro-football-reference.com/boxscores/202501050gnb.htm,gnb,chi,False
+2024_264,2024,18,2025-01-05,Sun,Jacksonville Jaguars,Indianapolis Colts,,1:00p,,https://www.pro-football-reference.com/boxscores/202501050clt.htm,clt,jax,False
+2024_265,2024,18,2025-01-05,Sun,Seattle Seahawks,Los Angeles Rams,,4:25p,,https://www.pro-football-reference.com/boxscores/202501050ram.htm,ram,sea,False
+2024_266,2024,18,2025-01-05,Sun,Los Angeles Chargers,Las Vegas Raiders,,4:25p,,https://www.pro-football-reference.com/boxscores/202501050rai.htm,rai,sdg,False
+2024_267,2024,18,2025-01-05,Sun,Buffalo Bills,New England Patriots,,1:00p,,https://www.pro-football-reference.com/boxscores/202501050nwe.htm,nwe,buf,False
+2024_268,2024,18,2025-01-05,Sun,Miami Dolphins,New York Jets,,4:25p,,https://www.pro-football-reference.com/boxscores/202501050nyj.htm,nyj,mia,False
+2024_269,2024,18,2025-01-05,Sun,New York Giants,Philadelphia Eagles,,1:00p,,https://www.pro-football-reference.com/boxscores/202501050phi.htm,phi,nyg,False
+2024_270,2024,18,2025-01-05,Sun,Cincinnati Bengals,Pittsburgh Steelers,,8:00p,,https://www.pro-football-reference.com/boxscores/202501050pit.htm,pit,cin,False
+2024_271,2024,18,2025-01-05,Sun,New Orleans Saints,Tampa Bay Buccaneers,,1:00p,,https://www.pro-football-reference.com/boxscores/202501050tam.htm,tam,nor,False
+2024_272,2024,18,2025-01-05,Sun,Houston Texans,Tennessee Titans,,1:00p,,https://www.pro-football-reference.com/boxscores/202501050oti.htm,oti,htx,False
