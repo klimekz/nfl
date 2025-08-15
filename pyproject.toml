@@ -7,7 +7,11 @@ requires-python = ">=3.9"
 dependencies = [
     "ipykernel>=6.30.1",
     "jupyter>=1.1.1",
+    "kagglehub>=0.3.12",
+    "matplotlib>=3.9.4",
     "pandas>=2.3.1",
     "pdfplumber>=0.11.7",
     "pypdf2>=3.0.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
 ]
